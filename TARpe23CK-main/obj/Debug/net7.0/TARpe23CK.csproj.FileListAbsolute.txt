@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\opilane\source\repos\TARpe23CK\obj\Debug\net7.0\TARpe23CK.MvcApplicationPartsAssemblyInfo.cache
