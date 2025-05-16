@@ -1,12 +1,16 @@
 <template>
     <EventList :title="title" />
-    <PeopleList :title="title" />
 </template>
 
 <script setup lang="ts">
-    import EventList from "@/components/EventList.vue";
-    import PeopleList from "@/components/PeopleList.vue";
+    import { useRouter } from 'vue-router'
+    import { computed } from 'vue'
+    const router = useRouter()
+    if (!localStorage.getItem("jwt")) {
+        router.push("/")
+    }
+
     import { defineProps } from "vue";
-    
-    define<{ title: String }>();
+
+    defineProps<{ title: String }>();
 </script>

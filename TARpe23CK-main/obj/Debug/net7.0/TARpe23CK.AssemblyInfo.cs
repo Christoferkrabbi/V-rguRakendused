@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TARpe23CK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf0f7c6a9acfe28f7db2b15f98297b59a6e2754")]
 [assembly: System.Reflection.AssemblyProductAttribute("TARpe23CK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TARpe23CK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

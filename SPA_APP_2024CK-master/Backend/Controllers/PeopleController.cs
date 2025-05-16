@@ -56,4 +56,3 @@ public class PeopleController : ControllerBase
     }
 
 }
-
