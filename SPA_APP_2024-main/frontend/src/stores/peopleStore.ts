@@ -1,4 +1,4 @@
-import { type Person } from "@/models/people";
+import { type Person } from "@/models/person";
 import { ref } from "vue";
 import { defineStore } from "pinia";
 import useApi, { useApiRawRequest } from "@/models/api";
@@ -33,7 +33,7 @@ export const usePeopleStore = defineStore('peopleStore', () => {
         Accept: 'application/json',
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify(event),
+      body: JSON.stringify(person),
     }); 
     
     await apiAddPerson.request();

@@ -2,7 +2,6 @@
     <br />
   <EventList :title="title"/> 
     <br />
-    <br />
   <peopleList :title="title"/> 
 </template>
 
